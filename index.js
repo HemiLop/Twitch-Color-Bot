@@ -1,6 +1,5 @@
 var tmi = require('tmi.js');
-var dotenv = require('dotenv');
-dotenv.config();
+var dotenv = require('dotenv').config();
 
 var index = 1;
 

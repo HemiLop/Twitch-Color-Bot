@@ -8,16 +8,16 @@ Per avviarlo serve node.js :)
 
 Pacchetti utilizzati:
 
-+[tmi.js](https://www.npmjs.com/package/tmi.js "tmi.js")
-+[dotenv](https://www.npmjs.com/package/dotenv "dotenv")
++ [tmi.js](https://www.npmjs.com/package/tmi.js "tmi.js")
++ [dotenv](https://www.npmjs.com/package/dotenv "dotenv")
 
 ---
 
 #### Come installare ####
 
-+Scarichi node.js
-+Apri il cmd e fai change directory dove hai scaricato il bot
-+npm i tmi.js
-+npm i dotenv
-+npm start per avviare il bot
-+ctrl + c per arrestarlo 
++ Scarichi node.js
++ Apri il cmd e fai change directory dove hai scaricato il bot
++ npm i tmi.js
++ npm i dotenv
++ npm start per avviare il bot
++ ctrl + c per arrestarlo 

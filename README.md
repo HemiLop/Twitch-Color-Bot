@@ -15,7 +15,7 @@ Pacchetti utilizzati:
 
 #### Come installare ####
 
-+ Scarichi node.js
++ Scarica [node.js](https://nodejs.org/ "node.js")
 + Apri il cmd e fai change directory dove hai scaricato il bot
 + npm i tmi.js
 + npm i dotenv

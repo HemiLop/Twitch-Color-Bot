@@ -1,0 +1,1 @@
+Bot di twitch che ad ogni messaggio cambia colore del nome :)
